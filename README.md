@@ -13,20 +13,11 @@ Entrada:
 n = 6
 
 Saída:
-*
-**
-***
-****
-*****
-******
 
 R = Expliação - para concluir a primeira atividade foi criado lista de icones passando o numero total de n = 6, com um for aninhado interando o icone em um string.
 
 
 
-
-
-//////////////////////////////////////////////
 Segunda Questão:
 Débora se inscreveu em uma rede social para se manter em contato com seus amigos. A página de cadastro exigia o preenchimento dos campos de nome e senha, porém a senha precisa ser forte. O site considera uma senha forte quando ela satisfaz os seguintes critérios:
 Possui no mínimo 6 caracteres.
@@ -48,9 +39,6 @@ R = Explicação - para a segunda atividade foi utilizado o modelo de validaçã
 
 
 
-
-
-////////////////////////////////////////
 
 Terceira Questão
 Duas palavras podem ser consideradas anagramas de si mesmas se as letras de uma palavra podem ser realocadas para formar a outra palavra. Dada uma string qualquer, desenvolva um algoritmo que encontre o número de pares de substrings que são anagramas.
